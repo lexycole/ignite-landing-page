@@ -1,6 +1,5 @@
 import React from 'react'
 import './Header.css';
-import Autocomplete from "react-google-autocomplete";
 import { usePlacesWidget } from "react-google-autocomplete";
 import { FaMapMarkerAlt } from 'react-icons/fa';
 
