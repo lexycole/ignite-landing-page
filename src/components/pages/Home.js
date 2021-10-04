@@ -9,15 +9,8 @@ const Home = () => {
         <React.Fragment>
             <Header />
             <Pricing />
-            {/* <Testimonials /> */}
         </React.Fragment>
     )
 }
 
 export default Home;
-
-/*
-            <Pricing />
-            <Testimonials />
-
-*/
